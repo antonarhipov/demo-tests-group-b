@@ -22,4 +22,9 @@ public class AppTest
     public void testingSomething(){
         assertTrue(true);
     }
+
+    @Test
+    public void testingSomething2(){
+        assertTrue(true);
+    }
 }
